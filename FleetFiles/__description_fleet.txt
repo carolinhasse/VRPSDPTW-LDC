@@ -1,0 +1,8 @@
+1	% number of vehicles types
+1.0	% factor for capacity of truck type 1 					% i.e. (1.0 = capacity as in instance, 1.1 = 10% more than in instance...)
+1	% number of pieces in the cost function of truck type 1
+0.0	% x-value factor of first triplet					% i.e. x_1 = 0.0 * Q = 0.0
+1.0	% base cost multiplier of first triplet					% i.e. y_1 = 1.0 * c_ij
+1.0	% load-impact-factor of first triplet, must be converted to slope	% i.e. delta_1 = 1.0 / Q
+
+% in case of a second truck, it would start over with factor for capacity, number of pieces, and the three values per piece
