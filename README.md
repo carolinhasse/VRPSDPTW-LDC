@@ -1,7 +1,9 @@
-This repository provides the modified instances and the fleets used for the vehicle routing problem with simultaneous delivery and pickup, time windows and load-dependent cost in the working paper:
+This repository provides the modified instances and the fleets used and the results reported for the vehicle routing problem with simultaneous delivery and pickup, time windows and load-dependent cost in the working paper:
 
 Carolin Hasse and Stefan Irnich (2025)
+
 Branch-price-and-cut for the vehicle routing problem with simultaneous delivery and pickup, time windows, and load-dependent cost
+
 Technical Report LM-2025-03, Chair of Logistics Management, Department of Business & Economics, Johannes Gutenberg University Mainz, Mainz, Germany
 (see https://logistik.bwl.uni-mainz.de/tech-reports/ [HI25])
 
